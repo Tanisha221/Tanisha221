@@ -17,21 +17,20 @@
 
 ## Hi there 👋
 
-I’m Tanisha, a postgraduate student working in machine learning and mathematical modelling, with a background in computer science.
+I’m Tanisha, a postgraduate student currently pursuing Msc in Mathematical Modelling and Machine Learning, with a background in Computer Science.
 
-🌱 Currently learning  
-Machine Learning and Deep Learning  
-Mathematical Modelling  
-Computer Vision  
+🌱** Education **
+ Msc in Mathematical Modelling and Machine Learning
+ BE in Computer Science and Engineering
 
-🔭 Currently working on  
+🔭 **Currently working on  **
 Machine learning projects for real use cases  
 App and web development projects alongside ML  
 
 📍 Based in Ireland  
 
-📫 Reach me  
-Email: your-email@example.com  
+📫 **Reach me  **
+Email: tanisha2kumar@gmail.com
 
 <hr />
 
@@ -47,18 +46,6 @@ Email: your-email@example.com
   </a>
 </p>
 
-<hr />
-
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME" />
-</p>
-
-<hr />
 
 <!-- Tools and Languages icons -->
 <h3 align="center">Languages and Tools</h3>
