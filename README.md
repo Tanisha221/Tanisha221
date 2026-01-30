@@ -1,14 +1,18 @@
 <!-- Animated intro -->
 <div align="center">
-  <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=22&pause=900&color=22C55E&center=true&vCenter=true&width=650&lines=Hey+👋+I%27m+Tanisha+Sudeep+Kumar;Machine+Learning+%7C+App+%26+Web+Development;Building+practical+projects+that+actually+ship" alt="typing intro" />
+  <img loading="lazy"
+       src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&pause=900&center=true&vCenter=true&width=520&lines=ML+Developer+in+the+making"
+       alt="role line" />
+  ✨
 </div>
-
 <br>
 
 <!-- Role line -->
 <div align="center">
-  <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&pause=900&color=38BDF8&center=true&vCenter=true&width=520&lines=ML+Developer+in+the+making+✨" alt="role line" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="28" height="28" />
+  ✨
+  <img loading="lazy"
+       src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=20&pause=900&center=true&vCenter=true&width=320&lines=A+bit+about+me"
+       alt="about title" />
 </div>
 
 <br>
@@ -50,9 +54,11 @@
 
 <hr>
 
-<!-- Connect -->
 <div align="center">
-  <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=20&pause=900&color=FBBF24&center=true&vCenter=true&width=360&lines=📬+Let%27s+connect" alt="connect title" />
+  📬
+  <img loading="lazy"
+       src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=20&pause=900&center=true&vCenter=true&width=320&lines=Lets+connect"
+       alt="connect title" />
 </div>
 
 <br>
@@ -68,10 +74,13 @@
 
 <hr>
 
-<!-- Tools -->
 <div align="center">
-  <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=20&pause=900&color=A78BFA&center=true&vCenter=true&width=420&lines=🛠️+Languages+%26+tools+I+use" alt="tools title" />
+  📬
+  <img loading="lazy"
+       src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=20&pause=900&center=true&vCenter=true&width=320&lines=Lets+connect"
+       alt="connect title" />
 </div>
+
 
 <br>
 
