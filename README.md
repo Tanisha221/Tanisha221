@@ -15,21 +15,21 @@
 
 <hr />
 
-## Hi there 👋
+## 🌟 Welcome to my space
 
 I’m Tanisha, a postgraduate student currently pursuing Msc in Mathematical Modelling and Machine Learning, with a background in Computer Science.
 
-🌱** Education **
+🌱 **Education**
  Msc in Mathematical Modelling and Machine Learning
  BE in Computer Science and Engineering
 
-🔭 **Currently working on  **
+🔭 **Currently working on**
 Machine learning projects for real use cases  
 App and web development projects alongside ML  
 
 📍 Based in Ireland  
 
-📫 **Reach me  **
+📫 **Reach me**
 Email: tanisha2kumar@gmail.com
 
 <hr />
