@@ -5,7 +5,7 @@
 
 <!-- Typing line -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&center=true&vCenter=true&width=700&lines=Building+with+Machine+Learning+and+Code;ML+%7C+Computer+Vision+%7C+App+%26+Web+Development;Turning+ideas+into+working+systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&center=true&vCenter=true&width=700&lines=Building+with+Machine+Learning+and+Code;ML+%7C+App+%26+Web+Development;Turning+ideas+into+working+systems" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ## ✨ Welcome to my GitHub
 
-I work on **machine learning, computer vision, and app/web development**, with a focus on projects that solve real problems and go beyond just experiments.
+I work on **machine learning and app/web development**, with a focus on projects that solve real problems and go beyond just experiments.
 
 🎓 **Background**  
 MSc in Mathematical Modelling and Machine Learning  
@@ -69,24 +69,9 @@ Email: tanisha2kumar@gmail.com
 </p>
 
 <p align="center">
-  Machine Learning • Deep Learning • Computer Vision • AI
+  Machine Learning • Web and App Development • AI
 </p>
 
 <hr />
 
-<!-- Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanisha221&show_icons=true&hide_title=true&bg_color=0d1117&text_color=E5E7EB&icon_color=38BDF8" />
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Tanisha221&theme=dark&background=0D1117" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanisha221&bg_color=0d1117&color=38BDF8&line=22C55E&point=E5E7EB&area=true&hide_border=true" />
-</p>
-
-<p align="center">
-  Thanks for stopping by 🤍
-</p>
