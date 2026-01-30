@@ -1,19 +1,12 @@
 <!-- ONE animated intro only (black text) -->
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&pause=900&center=true&vCenter=true&width=700&color=000000&lines=Hey%2C+I%27m+Tanisha+Kumar;Machine+Learning+and+App%2FWeb+Development;"
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&pause=900&center=true&vCenter=true&width=700&color=000000&lines=Hey%2C+I%27m+Tanisha+Kumar!;Machine+Learning+and+App%2FWeb+Development+Enthusiast;"
     alt="typing intro"
   />
 </div>
 
 <br>
-
-<!-- Role line -->
-<div align="center">
-  <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&pause=900&color=38BDF8&center=true&vCenter=true&width=520&lines=ML+Developer+in+the+making+✨" alt="role line" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="28" height="28" />
-</div>
-
 <br>
 
 <!-- Visitor counter -->
@@ -27,12 +20,13 @@
 </p>
 
 <hr>
-<div align="center" style="display:flex; align-items:center; justify-content:center; gap:8px;">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Sparkles.png" width="24" height="24" alt="sparkles" />
-  <img loading="lazy"
-       src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=20&pause=900&center=true&vCenter=true&width=260&lines=About+me"
-       alt="about title" />
-</div>
+<!-- ABOUT (stable emoji + text aligned) -->
+<table align="center">
+  <tr>
+    <td><img src="https://twemoji.maxcdn.com/v/latest/72x72/2728.png" width="20" alt="sparkles"/></td>
+    <td><b>About me</b></td>
+  </tr>
+</table>
 
 
 <br>
