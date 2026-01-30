@@ -30,9 +30,9 @@
 <p align="center">
   I build projects in <b>machine learning</b> and <b>app/web development</b>.
   <br><br>
-  🎓 MSc in Mathematical Modelling and Machine Learning at University College Cork 
+  🎓 MSc in Mathematical Modelling and Machine Learning  
   <br>
-  🎓 BE in Computer Science and Engineering at SJEC
+  🎓 BE in Computer Science and Engineering  
   <br><br>
   🔭 Currently working on ML projects for real-world use cases  
   <br>
