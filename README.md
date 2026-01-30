@@ -1,44 +1,47 @@
-<!-- Intro typing -->
+<!-- Animated intro -->
 <div align="center">
-  <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=22&pause=900&color=22C55E&center=true&vCenter=true&width=650&lines=Hey+👋+I%27m+Tanisha+Sudeep+Kumar;Machine+Learning+%7C+Computer+Vision+%7C+App%2FWeb+Dev;Building+practical+projects+that+actually+ship" alt="typing intro" />
+  <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=22&pause=900&color=22C55E&center=true&vCenter=true&width=650&lines=Hey+👋+I%27m+Tanisha+Sudeep+Kumar;Machine+Learning+%7C+App+%26+Web+Development;Building+practical+projects+that+actually+ship" alt="typing intro" />
 </div>
 
 <br>
 
-<!-- Small role line -->
+<!-- Role line -->
 <div align="center">
-  <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&pause=900&color=38BDF8&center=true&vCenter=true&width=520&lines=ML+Developer+in+the+making+%E2%9C%A8" alt="role line" />
+  <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&pause=900&color=38BDF8&center=true&vCenter=true&width=520&lines=ML+Developer+in+the+making+✨" alt="role line" />
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="28" height="28" />
 </div>
 
 <br>
 
-<!-- Visitor counter + profile widget -->
+<!-- Visitor counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Tanisha221&style=for-the-badge&color=22c55e" alt="profile views" />
 </p>
 
+<!-- Profile widget -->
 <p align="center">
   <img src="https://github-widgetbox.vercel.app/api/profile?username=Tanisha221&theme=darkmode&data=repositories,stars,commits" alt="profile widget" />
 </p>
 
 <hr>
 
-<!-- About section -->
+<!-- About -->
 <div align="center">
-  <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=20&pause=900&color=F472B6&center=true&vCenter=true&width=360&lines=✨+A+bit+about+me" alt="about me title" />
+  <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=20&pause=900&color=F472B6&center=true&vCenter=true&width=360&lines=✨+A+bit+about+me" alt="about title" />
 </div>
 
 <br>
 
 <p align="center">
-  I work on <b>machine learning</b>, <b>computer vision</b>, and <b>app/web development</b>, and I like building things that feel real beyond demos.
+  I work on <b>machine learning</b> and <b>app/web development</b>, and I enjoy building projects that go beyond demos and feel real.
   <br><br>
   🎓 MSc in Mathematical Modelling and Machine Learning  
   <br>
   🎓 BE in Computer Science and Engineering  
   <br><br>
-  🔭 Currently working on ML projects for real use cases + ML-powered apps/web projects  
+  🔭 Currently working on ML projects for real-world use cases  
+  <br>
+  💻 Building ML-powered apps and web applications  
   <br>
   📍 Ireland  
   <br>
@@ -93,38 +96,13 @@
 </p>
 
 <p align="center">
-  Machine Learning • Deep Learning • Computer Vision • AI
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Sparkles.png" alt="sparkles" width="22" height="22" />
-</p>
-
-<hr>
-
-<!-- Stats -->
-<div align="center">
-  <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=20&pause=900&color=22C55E&center=true&vCenter=true&width=320&lines=📊+GitHub+stats" alt="stats title" />
-</div>
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tanisha221&show_icons=true&locale=en&layout=compact&bg_color=0d1117&text_color=E5E7EB&hide_title=true" alt="top langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanisha221&show_icons=true&bg_color=0d1117&text_color=E5E7EB&hide_title=true" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Tanisha221&theme=dark&background=0D1117" alt="streak" />
-</p>
-
-<p align="center">
-  <img alt="activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Tanisha221&bg_color=0d1117&color=38BDF8&line=22C55E&point=E5E7EB&area=true&hide_border=true&hide_title=true">
+  Machine Learning • Deep Learning • AI
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Sparkles.png" width="22" />
 </p>
 
 <hr>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Waving%20Hand.png" alt="wave" width="22" height="22" />
-  Thanks for visiting. Feel free to explore my repos 🤍
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Waving%20Hand.png" width="22" />
+  Thanks for visiting — feel free to explore my repositories 🤍
 </p>
