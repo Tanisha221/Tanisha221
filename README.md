@@ -1,34 +1,50 @@
-<!-- ONE animated intro only -->
+<!-- Animated intro -->
 <div align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&pause=900&center=true&vCenter=true&width=700&lines=Hey+👋+I%27m+Tanisha+Sudeep+Kumar;Machine+Learning+and+App%2FWeb+Development;Building+practical+projects+that+ship"
-    alt="typing intro"
-  />
+  <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=22&pause=900&color=22C55E&center=true&vCenter=true&width=650&lines=Hey+👋+I%27m+Tanisha+Sudeep+Kumar;Machine+Learning+%7C+App+%26+Web+Development;Building+practical+projects+that+actually+ship" alt="typing intro" />
+</div>
+
+<br>
+
+<!-- Role line -->
+<div align="center">
+  <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&pause=900&color=38BDF8&center=true&vCenter=true&width=520&lines=ML+Developer+in+the+making+✨" alt="role line" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="28" height="28" />
+</div>
+
+<br>
+
+<!-- Visitor counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tanisha221&style=for-the-badge&color=22c55e" alt="profile views" />
+</p>
+
+<!-- Profile widget -->
+<p align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=Tanisha221&theme=darkmode&data=repositories,stars,commits" alt="profile widget" />
+</p>
+
+<hr>
+
+<!-- About -->
+<div align="center">
+  <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=20&pause=900&color=F472B6&center=true&vCenter=true&width=360&lines=✨+A+bit+about+me" alt="about title" />
 </div>
 
 <br>
 
 <p align="center">
-  I work on <b>machine learning</b> and <b>app/web development</b>, focusing on projects that feel real and usable.
-</p>
-
-<hr>
-
-<!-- ABOUT (static, aligned) -->
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Sparkles.png" width="22"/>
-    </td>
-    <td><b>About me</b></td>
-  </tr>
-</table>
-
-<p align="center">
-  🎓 MSc in Mathematical Modelling and Machine Learning <br>
-  🎓 BE in Computer Science and Engineering <br><br>
-  🔭 Working on ML projects and ML-powered apps/web applications <br>
-  📍 Ireland <br>
+  I work on <b>machine learning</b> and <b>app/web development</b>, and I enjoy building projects that go beyond demos and feel real.
+  <br><br>
+  🎓 MSc in Mathematical Modelling and Machine Learning at University College Cork 
+  <br>
+  🎓 BE in Computer Science and Engineering at SJEC
+  <br><br>
+  🔭 Currently working on ML projects for real-world use cases  
+  <br>
+  💻 Building ML-powered apps and web applications  
+  <br>
+  📍 Ireland  
+  <br>
   📫 tanisha2kumar@gmail.com
 </p>
 
