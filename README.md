@@ -29,7 +29,8 @@
 <br>
 
 <p align="center">
-  I work on <b>machine learning</b> and <b>app/web development</b>, and I enjoy building projects that go beyond demos and feel real.
+  I build projects in <b>machine learning</b> and <b>app/web development</b>.
+  
   <br><br>
   🎓 MSc in Mathematical Modelling and Machine Learning at University College Cork 
   <br>
