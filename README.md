@@ -1,46 +1,35 @@
-## Hi there 👋 I’m Tanisha
+<h1 align="center">Hi 👋 I’m Tanisha</h1>
 
-I’m a postgraduate student studying Msc in mathematical modelling and machine learning, with a background in computer science. I enjoy building practical projects, especially in computer vision and applied AI, where ideas turn into working systems.
+<p align="center">
+Postgraduate student working in Machine Learning and Mathematical Modelling
+</p>
 
-🌱 Currently learning  
-Machine learning and deep learning  
-Mathematical modelling  
-Applied AI concepts  
+- 🌱 Currently learning Machine Learning and Deep Learning  
+- 🔭 Currently working on CNN-based computer vision projects  
+- 🎓 MSc in Mathematical Modelling and Machine Learning  
+- 📍 Based in Ireland  
+- 📫 Email: your-email@example.com  
 
-🔭 Projects
-CNN based image classification projects  
-Internship and hackathon projects  
-Improving problem solving and implementation skills  
+<h3 align="center">Connect with me</h3>
 
-🎓 Education  
-MSc in Mathematical Modelling and Machine Learning  
-BE in Computer Science and Engineering
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-link/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+  </a>
+  <a href="https://github.com/Tanisha221">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  </a>
+</p>
 
-🧠 Interests  
-Machine learning  
-Full stack development  
-AI for real world use cases  
+<h3 align="center">Languages and Tools</h3>
 
-📍 Location  
-Ireland  
-
-📫 How to reach me  
-Email: tanisha2kumar2gmail.com
-LinkedIn: https://www.linkedin.com/in/tanisha-kumar-81692a265/
-
-🛠️ Tools and Languages  
-
-Python  
-C and C++  
-Java  
-JavaScript  
-React  
-Flutter  
-Machine Learning  
-Deep Learning  
-CNNs  
-Pandas  
-NumPy  
-Git  
-Linux  
-
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+</p>
