@@ -1,6 +1,9 @@
-<!-- Animated intro -->
+<!-- ONE animated intro only (black text) -->
 <div align="center">
-  <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=22&pause=900&color=22C55E&center=true&vCenter=true&width=650&lines=Hey+👋+I%27m+Tanisha+Sudeep+Kumar;Machine+Learning+%7C+App+%26+Web+Development;Building+practical+projects+that+actually+ship" alt="typing intro" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&pause=900&center=true&vCenter=true&width=700&color=000000&lines=Hey%2C+I%27m+Tanisha+Kumar;Machine+Learning+and+App%2FWeb+Development;"
+    alt="typing intro"
+  />
 </div>
 
 <br>
