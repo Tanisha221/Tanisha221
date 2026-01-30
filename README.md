@@ -9,10 +9,7 @@
 <br>
 <br>
 
-<!-- Visitor counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tanisha221&style=for-the-badge&color=22c55e" alt="profile views" />
-</p>
+
 
 <!-- Profile widget -->
 <p align="center">
