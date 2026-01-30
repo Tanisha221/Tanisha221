@@ -24,11 +24,13 @@
 </p>
 
 <hr>
-
-<!-- About -->
-<div align="center">
-  <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=20&pause=900&color=F472B6&center=true&vCenter=true&width=360&lines=✨+A+bit+about+me" alt="about title" />
+<div align="center" style="display:flex; align-items:center; justify-content:center; gap:8px;">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Sparkles.png" width="24" height="24" alt="sparkles" />
+  <img loading="lazy"
+       src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=20&pause=900&center=true&vCenter=true&width=260&lines=About+me"
+       alt="about title" />
 </div>
+
 
 <br>
 
