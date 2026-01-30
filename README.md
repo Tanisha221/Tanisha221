@@ -1,11 +1,11 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Tanisha%20Sudeep%20Kumar&fontAlign=50&fontAlignY=40&color=0:111827,100:2563EB&fontColor=FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Tanisha%20Kumar&fontAlign=50&fontAlignY=40&color=0:111827,100:2563EB&fontColor=FFFFFF" />
 </p>
 
 <!-- Typing intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&center=true&vCenter=true&width=700&lines=MSc+student+in+Mathematical+Modelling+%26+Machine+Learning;Currently+working+on+Machine+Learning+%2B+App%2FWeb+Development;Computer+Vision+%7C+Applied+AI+%7C+Practical+Projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&center=true&vCenter=true&width=700&lines=MSc+student+in+Mathematical+Modelling+%26+Machine+Learning;Currently+working+on+Machine+Learning+%2B+App%2FWeb+Development;Applied+AI+%7C+Practical+Projects" />
 </p>
 
 <!-- Quick intro -->
