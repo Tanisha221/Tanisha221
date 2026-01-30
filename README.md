@@ -27,10 +27,8 @@
 
 
 <br>
-
 <p align="center">
   I build projects in <b>machine learning</b> and <b>app/web development</b>.
-  
   <br><br>
   🎓 MSc in Mathematical Modelling and Machine Learning at University College Cork 
   <br>
